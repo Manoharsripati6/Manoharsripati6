@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
 </a>
 
-<a href="https://www.hackerrank.com/YOUR_HACKERRANK">
+<a href="https://www.hackerrank.com/YOUR_HACKERRANK](https://www.hackerrank.com/profile/manoharsripati6">
 <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
